@@ -1,2 +1,4 @@
-# Alpha of Vitals7
-There only an Alpha and don't have the inst and script finished. He actually only contain the input!
+# Vitals 7
+COMING SOON
+# Info
+Similar to Vitals7 and in the future I design a special version... Vitals 7 - Pr1smaEdition :o
